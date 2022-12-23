@@ -1,0 +1,10 @@
+body{
+  background-color: lightslategrey;
+}
+.form-switch .form-check-input {
+  margin-left: 0;}
+  @media (max-width:575px){
+    .form-switch {
+      padding-left: 0;
+  }
+  }
